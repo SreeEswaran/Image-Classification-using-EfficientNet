@@ -1,0 +1,6 @@
+torch
+torchvision
+efficientnet_pytorch
+pandas
+scikit-learn
+jupyter
